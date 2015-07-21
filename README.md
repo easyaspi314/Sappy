@@ -1,6 +1,8 @@
 # Sappy
-Original Source for archival purposes.
+This is a Sappy fork that will hopefully once be completely rewritten in C# to
+replace some old VB6 junk and all other legacy components.
 
+Orgininal makers:
 Copyright © 2006 by Kawa and DJ ßouché
 
 # License
